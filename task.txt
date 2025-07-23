@@ -1,0 +1,5 @@
+[Work] Prepare project report
+[Study] Complete Java assignment
+[Personal] Call the electrician
+[Work] Team meeting at 3 PM
+[Study] Revise data structures
